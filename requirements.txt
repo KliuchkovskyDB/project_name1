@@ -4,3 +4,7 @@ seaborn
 plotly
 ipykernel
 nbformat
+numpy==1.26.4
+mlflow==2.16.0
+scikit-learn
+optuna

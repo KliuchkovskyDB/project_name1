@@ -1,0 +1,13 @@
+num_base__Present_Price
+num_base__Driven_kms
+num_base__Car_Age
+poly_features__Present_Price
+poly_features__Car_Age
+poly_features__Present_Price^2
+poly_features__Present_Price Car_Age
+poly_features__Car_Age^2
+kms_bins__Driven_kms
+cat__Fuel_Type
+cat__Selling_type
+cat__Transmission
+cat__Owner

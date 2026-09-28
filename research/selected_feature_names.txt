@@ -1,0 +1,6 @@
+num_base__Present_Price
+poly_features__Present_Price
+poly_features__Present_Price^2
+poly_features__Car_Age
+num_base__Car_Age
+poly_features__Car_Age^2
